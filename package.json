@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-docs-test",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "docs": "mint dev --root apps/docs"
+  }
+}
+
