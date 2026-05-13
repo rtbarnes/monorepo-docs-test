@@ -18,10 +18,15 @@
               "index",
               "quickstart"
             ]
+          },
+          {
+            "group": "Star Wars",
+            "pages": [
+              "tatooine"
+            ]
           }
         ]
       }
     ]
   }
 }
-
