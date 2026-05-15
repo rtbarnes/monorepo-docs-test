@@ -19,7 +19,8 @@
                 "group": "Get Started",
                 "pages": [
                   "index",
-                  "quickstart"
+                  "quickstart",
+                  "tatooine"
                 ]
               }
             ]
@@ -35,7 +36,8 @@
               {
                 "group": "Démarrer",
                 "pages": [
-                  "fr/quickstart"
+                  "fr/quickstart",
+                  "fr/tatooine"
                 ]
               }
             ]
