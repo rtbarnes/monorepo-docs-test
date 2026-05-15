@@ -38,7 +38,8 @@
                 "group": "Démarrer",
                 "pages": [
                   "fr/quickstart",
-                  "fr/tatooine"
+                  "fr/tatooine",
+                  "fr/millennium-falcon"
                 ]
               }
             ]
