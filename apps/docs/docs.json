@@ -36,7 +36,8 @@
               {
                 "group": "Démarrer",
                 "pages": [
-                  "fr/quickstart"
+                  "fr/quickstart",
+                  "fr/mandalorians"
                 ]
               }
             ]
