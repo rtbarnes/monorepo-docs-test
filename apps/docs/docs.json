@@ -39,6 +39,12 @@
                 ]
               }
             ]
+          },
+          {
+            "group": "Star Wars",
+            "pages": [
+              "tatooine"
+            ]
           }
         ]
       }
