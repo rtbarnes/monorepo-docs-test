@@ -21,6 +21,7 @@
                   "index",
                   "quickstart",
                   "tatooine",
+                  "hoth",
                   "millennium-falcon"
                 ]
               }
@@ -39,6 +40,7 @@
                 "pages": [
                   "fr/quickstart",
                   "fr/tatooine",
+                  "fr/hoth",
                   "fr/millennium-falcon"
                 ]
               }
